@@ -1,0 +1,24 @@
+# PyCharm
+.idea/
+
+# LaTeX 编译缓存
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.toc
+*.bbl
+*.blg
+*.nav
+*.snm
+*.vrb
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+
+# PDF 文件按需保留
+# *.pdf
